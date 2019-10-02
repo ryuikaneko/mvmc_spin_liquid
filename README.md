@@ -94,8 +94,7 @@
       * Wave function
         * Z2Azz13 spin liquid defined as
           \epsilon_k = 2t(\cos k_x + \cos k_y),
-          \Delta_k = \Delta_{x^2-y^2} (\cos k_x - \cos k_y)
-          + \Delta_{xy} \sin 2k_x \sin 2k_y
+          \Delta_k = \Delta_{x^2-y^2} (\cos k_x - \cos k_y) + \Delta_{xy} \sin 2k_x \sin 2k_y
       * See
         [nhscp2014, F.Becca](http://www.issp.u-tokyo.ac.jp/public/nhscp2014/files/talks/S3A-1Becca.pdf)
         [DOI:10.1103/PhysRevB.88.060402](https://doi.org/10.1103/PhysRevB.88.060402)
