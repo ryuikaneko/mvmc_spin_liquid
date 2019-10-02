@@ -8,9 +8,9 @@
 ## Rerefences
 
 * mVMC
-  * [10.1143/JPSJ.77.114701](https://doi.org/10.1143/JPSJ.77.114701)
+  * [DOI:10.1143/JPSJ.77.114701](https://doi.org/10.1143/JPSJ.77.114701)
   * [DOI:10.1016/j.cpc.2018.08.014](https://doi.org/10.1016/j.cpc.2018.08.014)
-* "Dictionary" of Spin liquid ansatze
+* "Dictionary" of spin liquid ansatze
   * [DOI:10.1103/PhysRevB.65.165113](https://doi.org/10.1103/PhysRevB.65.165113)
   * [arXiv:0905.4854](https://arxiv.org/abs/0905.4854)
 
