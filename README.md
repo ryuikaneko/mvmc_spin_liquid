@@ -99,6 +99,7 @@
         [nhscp2014, F.Becca](http://www.issp.u-tokyo.ac.jp/public/nhscp2014/files/talks/S3A-1Becca.pdf)
         [DOI:10.1103/PhysRevB.88.060402](https://doi.org/10.1103/PhysRevB.88.060402)
         [DOI:10.1103/PhysRevB.100.125131](https://doi.org/10.1103/PhysRevB.100.125131)
+        [DOI:10.1103/PhysRevB.99.100405](https://doi.org/10.1103/PhysRevB.99.100405)
 
     * Projected Fermi sea
       * The state shows unexpected long-range magnetic order,
@@ -117,6 +118,7 @@
         [DOI:10.1103/PhysRevLett.92.1570031](https://doi.org/10.1103/PhysRevLett.92.157003)
         [DOI:10.1103/PhysRevB.74.014408](https://doi.org/10.1103/PhysRevB.74.014408)
         [DOI:10.1103/PhysRevB.80.012404](https://doi.org/10.1103/PhysRevB.80.012404)
+        [DOI:10.1103/PhysRevB.88.125135](https://doi.org/10.1103/PhysRevB.88.125135)
 
     * Spin liquid ansatz for the J-J' triangular Heisenberg model (J':spatial anisotropy)
       * See
@@ -160,6 +162,10 @@
         [DOI:10.1103/PhysRevLett.98.117205](https://doi.org/10.1103/PhysRevLett.98.117205)
         [DOI:10.1103/PhysRevB.84.020407](https://doi.org/10.1103/PhysRevB.84.020407) 
         [DOI:10.1103/PhysRevB.91.020402](https://doi.org/10.1103/PhysRevB.91.020402)
+
+    * Other spin liquid ansatze
+      * See
+        [DOI:10.1103/PhysRevB.99.100405](https://doi.org/10.1103/PhysRevB.99.100405)
 
 * 2D Hubbard model
 
