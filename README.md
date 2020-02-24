@@ -96,10 +96,12 @@
           \epsilon_k = 2t(\cos k_x + \cos k_y),
           \Delta_k = \Delta_{x^2-y^2} (\cos k_x - \cos k_y) + \Delta_{xy} \sin 2k_x \sin 2k_y
       * See
-        [nhscp2014, F.Becca](http://www.issp.u-tokyo.ac.jp/public/nhscp2014/files/talks/S3A-1Becca.pdf)
+        [DOI:10.1103/PhysRevB.66.235110](https://doi.org/10.1103/PhysRevB.66.235110)
+        [DOI:10.1103/PhysRevLett.87.097201](https://doi.org/10.1103/PhysRevLett.87.097201)
         [DOI:10.1103/PhysRevB.88.060402](https://doi.org/10.1103/PhysRevB.88.060402)
         [DOI:10.1103/PhysRevB.100.125131](https://doi.org/10.1103/PhysRevB.100.125131)
         [DOI:10.1103/PhysRevB.99.100405](https://doi.org/10.1103/PhysRevB.99.100405)
+        [nhscp2014, F.Becca](http://www.issp.u-tokyo.ac.jp/public/nhscp2014/files/talks/S3A-1Becca.pdf)
 
     * Projected Fermi sea
       * The state shows unexpected long-range magnetic order,
@@ -132,6 +134,7 @@
       Heisenberg model (J2:next nearest neighbor)
       * See
         [DOI:10.1103/PhysRevB.93.144411](https://doi.org/10.1103/PhysRevB.93.144411)
+        [DOI:10.1038/s41467-019-11727-3](https://doi.org/10.1038/s41467-019-11727-3)
       * See also
         [DOI:10.7566/JPSJ.83.093707](https://doi.org/10.7566/JPSJ.83.093707)
 
@@ -162,6 +165,7 @@
         [DOI:10.1103/PhysRevLett.98.117205](https://doi.org/10.1103/PhysRevLett.98.117205)
         [DOI:10.1103/PhysRevB.84.020407](https://doi.org/10.1103/PhysRevB.84.020407) 
         [DOI:10.1103/PhysRevB.91.020402](https://doi.org/10.1103/PhysRevB.91.020402)
+        [DOI:10.1038/s41467-019-11727-3](https://doi.org/10.1038/s41467-019-11727-3)
 
     * Other spin liquid ansatze
       * See
