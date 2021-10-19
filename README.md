@@ -171,6 +171,13 @@
       * See
         [DOI:10.1103/PhysRevB.99.100405](https://doi.org/10.1103/PhysRevB.99.100405)
 
+  * Square-Kagome lattice, Shuriken lattice
+
+    * Spin liquid ansatze, dimer state ansatze
+      * The ground state of the isotropic model seems to exhibit pinwheel VBC order
+      * See
+        [arXiv:2110.08198](https://arxiv.org/abs/2110.08198)
+
 * 2D Hubbard model
 
   * Charge order with translation invariant wave functions
