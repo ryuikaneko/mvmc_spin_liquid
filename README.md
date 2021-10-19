@@ -188,3 +188,11 @@
 
   * Pyrochlore lattice
 
+    * Spin liquid ansatze, ansatze with inversion/rotation symmetry breaking
+      * The ground state of the isotropic model seems to exhibit broken inversion symmetry
+      * See
+        [DOI:10.1103/PhysRevLett.126.117204](https://doi.org/10.1103/PhysRevLett.126.117204) (GS by DMRG)
+        [arXiv:2101.08787](https://arxiv.org/abs/2101.08787) (GS by VMC)
+        [DOI:10.1103/PhysRevB.78.180410](https://doi.org/10.1103/PhysRevB.78.180410) (VMC ansatze in Table.I)
+        [DOI:10.1103/PhysRevB.79.144432](https://doi.org/10.1103/PhysRevB.79.144432) (VMC ansatze in Table.I)
+        [arXiv:2110.08160](https://arxiv.org/abs/2110.08160) (GS by PFFRG, updated VMC ansatze in Table.I)
