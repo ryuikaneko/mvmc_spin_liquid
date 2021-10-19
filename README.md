@@ -62,6 +62,12 @@
       [DOI:10.1103/PhysRevLett.91.257005](https://doi.org/10.1103/PhysRevLett.91.257005) 
       [DOI:10.1103/PhysRevB.93.125127](https://doi.org/10.1103/PhysRevB.93.125127)
 
+  * SU(N) case
+    * See
+      [DOI:10.1103/PhysRevB.91.174427](https://doi.org/10.1103/PhysRevB.91.174427)
+      [DOI:10.5075/epfl-thesis-7309](https://doi.org/10.5075/epfl-thesis-7309)
+      https://github.com/jduf/VMC-SUN-Heisenberg
+
 * 1D Hubbard model, t-J model
 
   * Tomonaga-Luttinger liquid
